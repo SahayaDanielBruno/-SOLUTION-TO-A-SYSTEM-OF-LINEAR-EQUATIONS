@@ -29,7 +29,8 @@ soln=np.linalg.solve(A,B)
 print(soln)
 ```
 ## Output:
-<img width="1450" height="897" alt="image" src="https://github.com/user-attachments/assets/657536c9-b09c-48b4-82ca-556c17b62d31" />
+<img width="897" height="652" alt="image" src="https://github.com/user-attachments/assets/c2789352-16dc-4d52-bd74-006cff2a49fa" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
